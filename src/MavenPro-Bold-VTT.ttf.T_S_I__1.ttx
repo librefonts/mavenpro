@@ -1,0 +1,1218 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <TSI1>
+
+    <glyphProgram name="A">
+/* TT glyph 36, char 0x41 (A) */
+/* VTT 4.2 compiler Wed Sep 21 17:06:33 2011 */
+SVTCA[Y]
+MDAP[R], 1
+MDRP[m>RBl], 10
+MDAP[R], 7
+MDRP[m&lt;rGr], 4
+MDAP[R], 8
+MDRP[m>RBl], 6
+SVTCA[X]
+MDAP[R], 1
+MDRP[M>RBl], 0
+MDRP[m>RBl], 7
+SRP0[], 1
+MDRP[M>RBl], 2
+MDRP[M>RBl], 3
+MDRP[m>RBl], 4
+IUP[X]
+IUP[Y]
+SVTCA[Y]
+DLTP1[(10 @2 6)(10 @3 6)]
+SVTCA[X]
+SDB[], 8
+DLTP1[(0 @0 1)(0 @3 1)]
+DLTP1[(0 @4 8)]
+DLTP1[(1 @4 8)]
+DLTP1[(4 @4 8)]
+DLTP1[(5 @4 5)]
+DLTP1[(6 @4 2)]
+DLTP1[(8 @1 4)]
+DLTP1[(8 @2 -4)]
+DLTP1[(8 @3 -6)]
+DLTP1[(9 @2 3)]
+DLTP1[(9 @4 5)]
+DLTP1[(10 @0 -3)]
+DLTP1[(10 @1 3)]
+DLTP1[(10 @3 -3)]
+DLTP1[(10 @4 2)]
+DLTP1[(11 @0 -4)]
+DLTP1[(11 @3 -8)]
+DLTP1[(12 @0 -6)]
+
+    </glyphProgram>
+
+    <glyphProgram name="B">
+/* TT glyph 37, char 0x42 (B) */
+/* VTT 4.2 compiler Wed Sep 21 17:07:45 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m>RBl], 30
+MDAP[R], 17
+MDRP[m>RBl], 19
+MDAP[R], 26
+MDRP[m>RBl], 23
+SVTCA[X]
+MDAP[R], 0
+MDRP[M>RBl], 18
+MDRP[m&lt;rGr], 25
+MDAP[R], 7
+MDRP[m>RBl], 28
+MDAP[R], 11
+MDRP[m>RBl], 21
+IUP[X]
+IUP[Y]
+SVTCA[Y]
+DLTP1[(5 @0 -3)]
+DLTP1[(8 @0 3)]
+DLTP1[(9 @0 3)]
+DLTP1[(14 @0 3)]
+
+    </glyphProgram>
+
+    <glyphProgram name="C">
+/* TT glyph 38, char 0x43 (C) */
+/* VTT 4.2 compiler Wed Sep 21 17:08:41 2011 */
+SVTCA[Y]
+MDAP[R], 6
+MDRP[m>RBl], 11
+MDAP[R], 25
+MDRP[m>RBl], 20
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 16
+MDAP[R], 22
+MDRP[m&lt;rGr], 9
+IUP[X]
+IUP[Y]
+DLTP1[(14 @1 -3)(14 @2 -3)]
+DLTP1[(17 @1 -3)]
+DLTP1[(18 @2 -3)]
+SDB[], 8
+DLTP1[(30 @0 -8)]
+
+    </glyphProgram>
+
+    <glyphProgram name="D">
+/* TT glyph 39, char 0x44 (D) */
+/* VTT 4.2 compiler Wed Sep 21 17:09:27 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m>RBl], 16
+MDAP[R], 8
+MDRP[m>RBl], 10
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 9
+MDAP[R], 5
+MDRP[m>RBl], 13
+IUP[X]
+IUP[Y]
+DLTP1[(3 @2 -3)]
+DLTP1[(7 @2 -4)]
+DLTP1[(11 @1 3)]
+DLTP1[(15 @1 2)]
+
+    </glyphProgram>
+
+    <glyphProgram name="G">
+/* TT glyph 42, char 0x47 (G) */
+/* VTT 4.2 compiler Wed Sep 21 17:10:54 2011 */
+SVTCA[Y]
+MDAP[R], 6
+MDRP[m>RBl], 11
+MDAP[R], 28
+MDRP[m>RBl], 27
+MDAP[R], 34
+MDRP[m>RBl], 23
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 17
+MDAP[R], 30
+MDRP[m&lt;RGr], 9
+MDRP[M>RBl], 25
+MDRP[m&lt;RWh], 27
+IUP[X]
+IUP[Y]
+DLTP1[(2 @2 2)]
+DLTP1[(3 @2 3)]
+DLTP1[(14 @1 -2)]
+DLTP1[(20 @1 -2)]
+DLTP1[(25 @4 -6)]
+DLTP1[(26 @4 -7)]
+DLTP1[(37 @2 3)(37 @3 3)]
+DLTP1[(38 @2 3)]
+SDB[], 8
+DLTP1[(40 @0 -8)]
+
+    </glyphProgram>
+
+    <glyphProgram name="K">
+/* TT glyph 46, char 0x4b (K) */
+/* VTT 4.2 compiler Wed Sep 21 17:13:36 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m&lt;rGr], 4
+MDAP[R], 11
+MDRP[m&lt;rGr], 8
+SVTCA[X]
+MDAP[R], 0
+MDRP[M>RBl], 11
+MDRP[m&lt;rGr], 3
+MDAP[R], 7
+MDRP[m>RBl], 8
+MDRP[M&lt;RWh], 5
+MDRP[m>RBl], 4
+IUP[X]
+IUP[Y]
+SVTCA[Y]
+DLTP1[(3 @1 -2)]
+DLTP1[(3 @3 -5)]
+DLTP1[(4 @1 -1)]
+DLTP1[(5 @1 -3)]
+DLTP1[(6 @3 -2)]
+SVTCA[X]
+DLTP1[(4 @1 8)]
+DLTP1[(4 @3 2)]
+DLTP1[(5 @0 -2)]
+DLTP1[(5 @1 2)]
+DLTP1[(5 @2 -7)]
+DLTP1[(5 @3 -8)]
+DLTP1[(6 @0 -4)(6 @1 -4)]
+DLTP1[(6 @2 -8)(6 @3 -8)]
+DLTP1[(7 @0 -4)(7 @2 -4)]
+DLTP1[(7 @3 -7)]
+DLTP1[(8 @0 -3)]
+DLTP1[(8 @1 8)]
+DLTP1[(9 @0 -2)]
+DLTP1[(13 @2 -8)]
+
+    </glyphProgram>
+
+    <glyphProgram name="M">
+/* TT glyph 48, char 0x4d (M) */
+/* VTT 4.2 compiler Wed Sep 21 17:15:29 2011 */
+SVTCA[Y]
+MDAP[R], 1
+MDRP[m>RBl], 10
+MDRP[M&lt;rGr], 4
+MDRP[m>RBl], 8
+MDAP[R], 9
+MDRP[m>RBl], 3
+MDAP[R], 11
+MDRP[m&lt;rGr], 7
+SVTCA[X]
+MDAP[R], 0
+MDRP[M>RBl], 11
+MDRP[m&lt;RGr], 2
+MDAP[R], 6
+MDRP[M>RBl], 7
+MDRP[m&lt;RGr], 4
+IUP[X]
+IUP[Y]
+SVTCA[Y]
+SDB[], 8
+DLTP1[(3 @0 -8)]
+DLTP1[(3 @1 -7)]
+DLTP1[(3 @3 -8)]
+DLTP1[(8 @1 5)]
+DLTP1[(8 @2 3)(8 @3 3)]
+DLTP1[(8 @4 4)]
+DLTP1[(9 @2 8)(9 @4 8)]
+DLTP1[(10 @1 3)(10 @2 3)]
+DLTP1[(10 @3 4)]
+DLTP1[(10 @4 5)]
+
+    </glyphProgram>
+
+    <glyphProgram name="N">
+/* TT glyph 49, char 0x4e (N) */
+/* VTT 4.2 compiler Wed Sep 21 17:16:58 2011 */
+SVTCA[Y]
+MDAP[R], 1
+MDRP[m&lt;rGr], 4
+MDRP[m>RBl], 8
+MDAP[R], 9
+MDRP[M&lt;rGr], 7
+MDRP[m>RBl], 3
+SVTCA[X]
+MDAP[R], 0
+MDRP[M>RBl], 9
+MDRP[m&lt;RGr], 2
+MDAP[R], 5
+MDRP[M>RBl], 4
+MDRP[m&lt;RGr], 7
+IUP[X]
+IUP[Y]
+SVTCA[Y]
+DLTP1[(3 @0 -4)]
+DLTP1[(3 @1 -6)]
+DLTP1[(3 @2 -3)]
+DLTP1[(3 @3 -4)]
+DLTP1[(8 @0 5)]
+DLTP1[(8 @1 6)]
+DLTP1[(8 @2 5)]
+DLTP1[(8 @3 4)]
+
+    </glyphProgram>
+
+    <glyphProgram name="O">
+/* TT glyph 50, char 0x4f (O) */
+/* VTT 4.2 compiler Wed Sep 21 17:17:57 2011 */
+SVTCA[Y]
+MDAP[R], 6
+MDRP[m>RBl], 38
+MDAP[R], 17
+MDRP[m>RBl], 27
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 22
+MDAP[R], 11
+MDRP[m>RBl], 33
+IUP[X]
+IUP[Y]
+DLTP1[(2 @2 3)]
+DLTP1[(3 @2 3)]
+DLTP1[(8 @2 -3)]
+DLTP1[(9 @2 -3)]
+DLTP1[(13 @2 -3)]
+DLTP1[(14 @2 -4)]
+DLTP1[(19 @2 4)]
+DLTP1[(20 @2 4)]
+DLTP1[(25 @1 -4)]
+DLTP1[(30 @1 3)]
+DLTP1[(36 @1 5)]
+DLTP1[(41 @1 -2)]
+SDB[], 8
+DLTP1[(44 @0 -8)]
+
+    </glyphProgram>
+
+    <glyphProgram name="Q">
+/* TT glyph 52, char 0x51 (Q) */
+/* VTT 4.2 compiler Wed Sep 21 17:19:51 2011 */
+SVTCA[Y]
+MDAP[R], 6
+MDRP[m>RBl], 42
+MDAP[R], 21
+MDRP[m>RBl], 20
+MDAP[R], 23
+MDRP[m&lt;RBl], 17
+MDRP[m>RBl], 33
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 29
+MDAP[R], 11
+MDRP[m>RBl], 38
+MDAP[R], 23
+MDRP[M>RBl], 17
+MDRP[m&lt;RWh], 20
+IUP[X]
+IUP[Y]
+DLTP1[(2 @2 3)]
+DLTP1[(3 @2 3)]
+DLTP1[(8 @2 -4)]
+DLTP1[(9 @2 -2)]
+SDB[], 8
+DLTP1[(14 @0 -3)]
+DLTP1[(15 @0 -3)]
+DLTP1[(15 @4 -4)]
+DLTP1[(24 @3 3)]
+DLTP1[(25 @3 7)]
+DLTP1[(26 @3 5)]
+DLTP1[(31 @2 -4)]
+DLTP1[(36 @2 3)]
+DLTP1[(39 @2 2)]
+DLTP1[(45 @2 -2)]
+DLTP1[(46 @0 -8)]
+
+    </glyphProgram>
+
+    <glyphProgram name="R">
+/* TT glyph 53, char 0x52 (R) */
+/* VTT 4.2 compiler Wed Sep 21 17:20:44 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m>RBl], 20
+MDAP[R], 12
+MDRP[m&lt;rGr], 9
+MDAP[R], 14
+MDRP[m>RBl], 10
+SVTCA[X]
+MDAP[R], 0
+MDRP[M>RBl], 12
+MDRP[m&lt;rGr], 13
+MDAP[R], 5
+MDRP[m>RBl], 17
+IUP[X]
+IUP[Y]
+DLTP1[(6 @2 -5)]
+DLTP1[(7 @2 -4)(7 @3 -4)]
+DLTP1[(9 @1 4)]
+DLTP1[(9 @3 6)]
+
+    </glyphProgram>
+
+    <glyphProgram name="S">
+/* TT glyph 54, char 0x53 (S) */
+/* VTT 4.2 compiler Wed Sep 21 17:22:10 2011 */
+SVTCA[Y]
+MDAP[R], 3
+MDRP[m>RBl], 8
+MDAP[R], 14
+MDRP[m>RBl], 31
+MDAP[R], 20
+MDRP[m>RBl], 25
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 11
+MDRP[m&lt;RGr], 23
+MDAP[R], 17
+MDRP[m&lt;RGr], 6
+MDRP[m>RBl], 27
+IUP[X]
+IUP[Y]
+SVTCA[Y]
+SDB[], 8
+DLTP1[(15 @0 -3)]
+DLTP1[(15 @1 -2)]
+DLTP1[(18 @0 3)(18 @1 3)]
+DLTP1[(23 @0 -4)]
+DLTP1[(29 @2 2)]
+DLTP1[(29 @3 3)]
+DLTP1[(29 @4 5)]
+DLTP1[(32 @0 3)(32 @1 3)]
+DLTP1[(32 @2 2)]
+SVTCA[X]
+DLTP1[(34 @0 -8)]
+
+    </glyphProgram>
+
+    <glyphProgram name="V">
+/* TT glyph 57, char 0x56 (V) */
+/* VTT 4.2 compiler Wed Sep 21 17:23:36 2011 */
+SVTCA[Y]
+MDAP[R], 1
+MDRP[m&lt;rGr], 3
+MDAP[R], 5
+MDRP[m>RBl], 2
+SVTCA[X]
+MDAP[R], 6
+MDRP[M>RBl], 0
+MDRP[m>RBl], 1
+SRP0[], 6
+MDRP[M>RBl], 5
+MDRP[M>RBl], 4
+MDRP[m>RBl], 3
+IUP[X]
+IUP[Y]
+SVTCA[Y]
+DLTP1[(2 @2 -8)(2 @3 -8)]
+SVTCA[X]
+DLTP1[(1 @3 -8)]
+DLTP1[(3 @3 8)]
+DLTP1[(7 @0 -8)]
+DLTP1[(8 @0 -8)]
+
+    </glyphProgram>
+
+    <glyphProgram name="W">
+/* TT glyph 58, char 0x57 (W) */
+/* VTT 4.2 compiler Wed Sep 21 17:27:43 2011 */
+SVTCA[Y]
+MDAP[R], 1
+MDRP[M&lt;rGr], 3
+MDRP[m&lt;rGr], 6
+MDAP[R], 11
+MDRP[m&lt;rGr], 8
+SVTCA[X]
+MDAP[R], 3
+MDRP[M>RBl], 4
+MDRP[M>RBl], 9
+MDRP[M>RBl], 8
+MDRP[M>RBl], 7
+MDRP[m>RBl], 6
+SRP0[], 3
+MDRP[M>RBl], 11
+MDRP[M>RBl], 12
+MDRP[M>RBl], 0
+MDRP[m>RBl], 1
+IUP[X]
+IUP[Y]
+SVTCA[Y]
+SDB[], 8
+DLTP1[(0 @0 4)(0 @3 4)]
+DLTP1[(1 @0 4)(1 @3 4)]
+DLTP1[(2 @0 -4)(2 @1 -4)]
+DLTP1[(3 @0 4)(3 @3 4)]
+DLTP1[(4 @0 6)]
+DLTP1[(4 @3 4)]
+DLTP1[(5 @0 -4)(5 @1 -4)]
+DLTP1[(6 @0 4)(6 @3 4)]
+DLTP1[(7 @0 4)(7 @3 4)]
+DLTP1[(10 @3 8)]
+DLTP1[(10 @5 -6)]
+SVTCA[X]
+DLTP1[(1 @3 1)]
+DLTP1[(1 @4 -8)]
+DLTP1[(4 @5 1)]
+DLTP1[(6 @4 8)]
+DLTP1[(8 @4 -2)]
+DLTP1[(12 @4 2)]
+DLTP1[(13 @0 -8)(13 @4 -8)]
+DLTP1[(14 @0 8)]
+
+    </glyphProgram>
+
+    <glyphProgram name="X">
+/* TT glyph 59, char 0x58 (X) */
+/* VTT 4.2 compiler Wed Sep 21 17:31:21 2011 */
+SVTCA[Y]
+MDAP[R], 3
+MDRP[m&lt;rGr], 5
+MDAP[R], 11
+MDRP[m&lt;rGr], 9
+SVTCA[X]
+MDAP[R], 1
+MDRP[M>RBl], 2
+MDRP[m>RBl], 3
+MDRP[M&lt;RWh], 0
+MDRP[m>RBl], 11
+SRP0[], 1
+MDRP[M>RBl], 7
+MDRP[M>RBl], 6
+MDRP[m>RBl], 5
+MDRP[M&lt;RWh], 8
+MDRP[m>RBl], 9
+IUP[X]
+IUP[Y]
+SVTCA[Y]
+DLTP1[(4 @1 -5)]
+DLTP1[(4 @2 -2)]
+DLTP1[(10 @1 5)]
+SVTCA[X]
+SDB[], 8
+DLTP1[(0 @0 1)]
+DLTP1[(0 @1 -1)(0 @2 -1)]
+DLTP1[(0 @4 7)]
+DLTP1[(1 @4 8)]
+DLTP1[(2 @4 8)]
+DLTP1[(3 @3 -8)]
+DLTP1[(4 @3 -4)]
+DLTP1[(4 @4 4)]
+DLTP1[(5 @4 8)]
+DLTP1[(6 @3 -8)]
+DLTP1[(7 @3 -8)]
+DLTP1[(8 @3 -8)]
+DLTP1[(9 @4 8)]
+DLTP1[(10 @3 -4)]
+DLTP1[(10 @4 4)]
+DLTP1[(11 @3 -8)]
+DLTP1[(12 @0 -8)(12 @1 -8)(12 @2 -8)]
+DLTP1[(12 @3 -7)]
+DLTP1[(12 @8 -8)]
+DLTP1[(13 @8 8)]
+
+    </glyphProgram>
+
+    <glyphProgram name="Y">
+/* TT glyph 60, char 0x59 (Y) */
+/* VTT 4.2 compiler Wed Sep 21 17:32:41 2011 */
+SVTCA[Y]
+MDAP[R], 1
+MDRP[m&lt;rGr], 3
+MDAP[R], 7
+MDRP[m&lt;rGr], 6
+SVTCA[X]
+MDAP[R], 8
+MDRP[M>RBl], 0
+MDRP[m>RBl], 1
+SRP0[], 8
+MDRP[M>RBl], 5
+MDRP[M>RBl], 4
+MDRP[m>RBl], 3
+IUP[X]
+IUP[Y]
+SVTCA[Y]
+DLTP1[(2 @0 -4)]
+SVTCA[X]
+DLTP1[(0 @2 6)]
+DLTP1[(0 @3 7)]
+DLTP1[(4 @2 -7)(4 @3 -7)]
+DLTP1[(9 @0 -8)]
+DLTP1[(9 @1 -7)]
+DLTP1[(10 @0 -7)]
+
+    </glyphProgram>
+
+    <glyphProgram name="Z">
+/* TT glyph 61, char 0x5a (Z) */
+/* VTT 4.2 compiler Wed Sep 21 17:34:31 2011 */
+SVTCA[Y]
+MDAP[R], 4
+MDRP[M>RBl], 3
+MDRP[m>RBl], 6
+MDAP[R], 9
+MDRP[M>RBl], 8
+MDRP[m>RBl], 1
+SVTCA[X]
+MDAP[R], 3
+MDRP[M&lt;RWh], 1
+MDRP[m>RBl], 7
+MDAP[R], 8
+MDRP[M&lt;rGr], 6
+MDRP[m>RBl], 2
+IUP[X]
+IUP[Y]
+DLTP1[(2 @4 -3)]
+DLTP1[(2 @5 -5)]
+DLTP1[(2 @6 -6)]
+DLTP1[(2 @7 -7)]
+DLTP1[(7 @2 -6)]
+DLTP1[(7 @3 -7)]
+DLTP1[(7 @4 4)]
+DLTP1[(7 @5 6)(7 @6 6)(7 @7 6)]
+
+    </glyphProgram>
+
+    <glyphProgram name="a">
+/* TT glyph 68, char 0x61 (a) */
+/* VTT 4.2 compiler Wed Sep 21 17:36:31 2011 */
+SVTCA[Y]
+MDAP[R], 6
+MDRP[m>RBl], 34
+MDAP[R], 15
+MDRP[m>RBl], 10
+MDAP[R], 22
+MDRP[m>RBl], 27
+SVTCA[X]
+MDAP[R], 0
+MDRP[m&lt;RGr], 12
+MDRP[m>RBl], 25
+MDAP[R], 19
+MDRP[M>RBl], 31
+MDRP[m&lt;RGr], 8
+IUP[X]
+IUP[Y]
+DLTP1[(3 @0 2)]
+DLTP1[(3 @1 3)]
+DLTP1[(4 @0 3)]
+DLTP1[(16 @0 -2)]
+DLTP1[(16 @1 -3)]
+DLTP1[(20 @1 -3)]
+DLTP1[(21 @0 -4)]
+DLTP1[(24 @0 4)(24 @1 4)]
+SDB[], 8
+DLTP1[(36 @0 -7)]
+
+    </glyphProgram>
+
+    <glyphProgram name="c">
+/* TT glyph 70, char 0x63 (c) */
+/* VTT 4.2 compiler Wed Sep 21 17:37:26 2011 */
+SVTCA[Y]
+MDAP[R], 3
+MDRP[m>RBl], 8
+MDAP[R], 19
+MDRP[m>RBl], 14
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 11
+MDAP[R], 16
+MDRP[m&lt;rGr], 6
+IUP[X]
+IUP[Y]
+SDB[], 8
+DLTP1[(22 @0 -8)]
+
+    </glyphProgram>
+
+    <glyphProgram name="e">
+/* TT glyph 72, char 0x65 (e) */
+/* VTT 4.2 compiler Wed Sep 21 17:38:33 2011 */
+SVTCA[Y]
+MDAP[R], 3
+MDRP[m>RBl], 27
+MDAP[R], 8
+MDRP[m>RBl], 24
+MDAP[R], 17
+MDRP[m>RBl], 12
+SVTCA[X]
+MDAP[R], 0
+MDRP[M>RBl], 9
+MDRP[m&lt;rGr], 23
+MDAP[R], 14
+MDRP[M&lt;RGr], 6
+MDRP[m>RBl], 24
+IUP[X]
+IUP[Y]
+SVTCA[Y]
+DLTP1[(2 @0 -4)]
+DLTP1[(4 @0 -4)]
+DLTP1[(25 @3 2)]
+
+    </glyphProgram>
+
+    <glyphProgram name="f">
+/* TT glyph 73, char 0x66 (f) */
+/* VTT 4.2 compiler Wed Sep 21 17:40:08 2011 */
+SVTCA[Y]
+MDAP[R], 1
+MDRP[m>RBl], 0
+MDRP[M&lt;rGr], 13
+MDRP[m>RBl], 14
+MDAP[R], 4
+MDRP[m>RBl], 9
+MDAP[R], 17
+MDRP[m&lt;rGr], 16
+SVTCA[X]
+MDAP[R], 17
+MDRP[m&lt;RWh], 0
+MDRP[m&lt;rGr], 2
+MDRP[M>RBl], 16
+MDRP[m&lt;rGr], 12
+MDRP[M&lt;RWh], 14
+MDRP[m&lt;rGr], 7
+IUP[X]
+IUP[Y]
+SVTCA[Y]
+DLTP1[(3 @0 -3)]
+DLTP1[(3 @1 -5)]
+DLTP1[(3 @3 -4)]
+
+    </glyphProgram>
+
+    <glyphProgram name="g">
+/* TT glyph 74, char 0x67 (g) */
+/* VTT 4.2 compiler Wed Sep 21 17:41:13 2011 */
+SVTCA[Y]
+MDAP[R], 6
+MDRP[m>RBl], 40
+MDAP[R], 16
+MDRP[m>RBl], 21
+MDAP[R], 29
+MDRP[m>RBl], 35
+SVTCA[X]
+MDAP[R], 0
+MDRP[m&lt;RGr], 18
+MDRP[m>RBl], 32
+MDAP[R], 9
+MDRP[M>RBl], 38
+MDRP[m&lt;rGr], 26
+IUP[X]
+IUP[Y]
+DLTP1[(7 @0 -3)(7 @1 -3)]
+DLTP1[(8 @0 -2)]
+SDB[], 8
+DLTP1[(13 @0 -2)(13 @1 -2)]
+DLTP1[(13 @2 -4)]
+DLTP1[(13 @3 -3)]
+DLTP1[(30 @1 1)]
+DLTP1[(45 @0 -8)]
+
+    </glyphProgram>
+
+    <glyphProgram name="i">
+/* TT glyph 76, char 0x69 (i) */
+/* VTT 4.2 compiler Wed Sep 21 17:42:07 2011 */
+SVTCA[Y]
+MDAP[R], 5
+MDRP[m&lt;rGr], 6
+MDRP[M&lt;RWh], 0
+MDRP[m>RBl], 1
+MDAP[R], 7
+MDRP[m&lt;rGr], 4
+SVTCA[X]
+MDAP[R], 6
+MDRP[m&lt;RWh], 3
+MDRP[M>RBl], 5
+MDRP[m&lt;RWh], 0
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="j">
+/* TT glyph 77, char 0x6a (j) */
+/* VTT 4.2 compiler Wed Sep 21 17:44:25 2011 */
+SVTCA[Y]
+MDAP[R], 6
+MDRP[m&lt;rGr], 7
+MDRP[M&lt;RWh], 15
+MDRP[m>RBl], 16
+MDAP[R], 14
+MDRP[m>RBl], 0
+SVTCA[X]
+MDAP[R], 6
+MDRP[m&lt;RWh], 15
+MDAP[R], 7
+MDRP[m&lt;RGr], 0
+MDRP[m&lt;RGr], 17
+IUP[X]
+IUP[Y]
+DLTP1[(7 @3 -8)]
+DLTP1[(7 @7 8)]
+DLTP1[(8 @3 -8)]
+DLTP1[(8 @7 8)]
+DLTP1[(9 @3 -8)]
+DLTP1[(9 @7 8)]
+DLTP1[(10 @3 -8)]
+DLTP1[(10 @7 8)]
+DLTP1[(11 @0 -2)(11 @1 -2)]
+DLTP1[(11 @2 -3)]
+DLTP1[(11 @3 -8)]
+DLTP1[(11 @7 8)]
+DLTP1[(12 @3 -6)]
+DLTP1[(12 @7 8)]
+DLTP1[(17 @3 -8)]
+DLTP1[(17 @7 8)]
+DLTP1[(18 @3 -8)]
+DLTP1[(18 @7 8)]
+
+    </glyphProgram>
+
+    <glyphProgram name="k">
+/* TT glyph 78, char 0x6b (k) */
+/* VTT 4.2 compiler Wed Sep 21 17:47:45 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m&lt;RWh], 4
+MDAP[R], 11
+MDRP[m&lt;rGr], 8
+SVTCA[X]
+MDAP[R], 0
+MDRP[M>RBl], 11
+MDRP[m&lt;rGr], 3
+MDAP[R], 5
+MDRP[m>RBl], 4
+MDRP[M&lt;RWh], 7
+MDRP[m>RBl], 8
+IUP[X]
+IUP[Y]
+SVTCA[Y]
+DLTP1[(3 @1 -4)]
+DLTP1[(3 @3 -8)]
+DLTP1[(4 @0 4)]
+DLTP1[(5 @0 4)]
+DLTP1[(5 @2 -2)]
+DLTP1[(6 @3 -7)]
+DLTP1[(7 @3 3)]
+DLTP1[(8 @3 1)]
+DLTP1[(9 @2 6)]
+SVTCA[X]
+DLTP1[(4 @1 8)(4 @3 8)]
+SDB[], 8
+DLTP1[(5 @0 3)(5 @2 3)]
+DLTP1[(6 @0 3)]
+DLTP1[(6 @3 -7)]
+DLTP1[(7 @3 2)]
+DLTP1[(8 @2 8)(8 @3 8)(8 @4 8)]
+DLTP1[(13 @1 8)]
+
+    </glyphProgram>
+
+    <glyphProgram name="l">
+/* TT glyph 79, char 0x6c (l) */
+/* VTT 4.2 compiler Wed Sep 21 17:48:30 2011 */
+SVTCA[Y]
+MDAP[R], 1
+MDRP[m>RBl], 0
+SVTCA[X]
+MDAP[R], 1
+MDRP[m>RBl], 2
+IUP[X]
+IUP[Y]
+DLTP1[(5 @2 -8)(5 @3 -8)]
+
+    </glyphProgram>
+
+    <glyphProgram name="o">
+/* TT glyph 82, char 0x6f (o) */
+/* VTT 4.2 compiler Wed Sep 21 17:49:30 2011 */
+SVTCA[Y]
+MDAP[R], 3
+MDRP[m>RBl], 14
+MDAP[R], 7
+MDRP[m>RBl], 10
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 9
+MDAP[R], 4
+MDRP[m>RBl], 13
+IUP[X]
+IUP[Y]
+SDB[], 8
+DLTP1[(16 @0 -8)(16 @1 -8)(16 @2 -8)]
+DLTP1[(17 @0 -8)]
+
+    </glyphProgram>
+
+    <glyphProgram name="p">
+/* TT glyph 83, char 0x70 (p) */
+/* VTT 4.2 compiler Wed Sep 21 17:50:12 2011 */
+SVTCA[Y]
+MDAP[R], 0
+MDRP[m&lt;rGr], 16
+MDAP[R], 4
+MDRP[m>RBl], 25
+MDAP[R], 13
+MDRP[m>RBl], 19
+SVTCA[X]
+MDAP[R], 0
+MDRP[M>RBl], 16
+MDRP[m&lt;rGr], 17
+MDAP[R], 10
+MDRP[m>RBl], 22
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="q">
+/* TT glyph 84, char 0x71 (q) */
+/* VTT 4.2 compiler Wed Sep 21 17:51:31 2011 */
+SVTCA[Y]
+MDAP[R], 6
+MDRP[m>RBl], 25
+MDAP[R], 11
+MDRP[m&lt;rGr], 10
+MDAP[R], 14
+MDRP[m>RBl], 20
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 17
+MDAP[R], 9
+MDRP[M>RBl], 23
+MDRP[m&lt;rGr], 12
+IUP[X]
+IUP[Y]
+SVTCA[Y]
+DLTP1[(7 @1 -3)]
+DLTP1[(15 @0 4)]
+SVTCA[X]
+SDB[], 8
+DLTP1[(30 @0 -8)]
+DLTP1[(31 @0 -8)]
+
+    </glyphProgram>
+
+    <glyphProgram name="s">
+/* TT glyph 86, char 0x73 (s) */
+/* VTT 4.2 compiler Wed Sep 21 17:53:24 2011 */
+SVTCA[Y]
+MDAP[R], 3
+MDRP[m>RBl], 8
+MDAP[R], 13
+MDRP[m>RBl], 31
+MDAP[R], 19
+MDRP[m>RBl], 24
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 10
+MDRP[m&lt;RGr], 22
+MDAP[R], 16
+MDRP[m&lt;RGr], 6
+MDRP[m>RBl], 27
+IUP[X]
+IUP[Y]
+DLTP1[(13 @3 -4)]
+DLTP1[(14 @0 -2)]
+DLTP1[(14 @1 -4)]
+DLTP1[(14 @2 -3)]
+DLTP1[(14 @3 -8)]
+DLTP1[(14 @4 -2)]
+DLTP1[(15 @3 -6)]
+DLTP1[(17 @0 -3)]
+DLTP1[(17 @1 -2)]
+DLTP1[(17 @2 -4)]
+DLTP1[(31 @2 5)]
+DLTP1[(31 @3 3)]
+DLTP1[(32 @0 4)(32 @1 4)]
+DLTP1[(32 @2 3)]
+DLTP1[(32 @3 5)]
+SDB[], 8
+DLTP1[(33 @0 -8)(33 @1 -8)(33 @2 -8)]
+DLTP1[(34 @0 -8)]
+
+    </glyphProgram>
+
+    <glyphProgram name="t">
+/* TT glyph 87, char 0x74 (t) */
+/* VTT 4.2 compiler Wed Sep 21 17:54:34 2011 */
+SVTCA[Y]
+MDAP[R], 1
+MDRP[M&lt;rGr], 6
+MDRP[M>RBl], 7
+MDRP[m&lt;rGr], 0
+MDAP[R], 3
+MDRP[m&lt;rGr], 4
+MDAP[R], 19
+MDRP[m>RBl], 12
+SVTCA[X]
+MDAP[R], 22
+MDRP[m&lt;RWh], 0
+MDRP[m&lt;rGr], 2
+MDRP[M>RBl], 9
+MDRP[m&lt;rGr], 5
+MDRP[M&lt;RWh], 7
+MDRP[m&lt;rGr], 14
+IUP[X]
+IUP[Y]
+DLTP1[(25 @1 -8)(25 @2 -8)(25 @3 -8)]
+
+    </glyphProgram>
+
+    <glyphProgram name="v">
+/* TT glyph 89, char 0x76 (v) */
+/* VTT 4.2 compiler Wed Sep 21 18:11:09 2011 */
+SVTCA[Y]
+MDAP[R], 0
+MDRP[m&lt;rGr], 3
+MDAP[R], 6
+MDRP[m>RBl], 2
+SVTCA[X]
+MDAP[R], 6
+MDRP[M>RBl], 0
+MDRP[m>RBl], 1
+SRP0[], 6
+MDRP[M>RBl], 5
+MDRP[M>RBl], 4
+MDRP[m>RBl], 3
+IUP[X]
+IUP[Y]
+SVTCA[Y]
+DLTP1[(0 @0 8)(0 @2 8)(0 @4 8)]
+DLTP1[(1 @0 8)(1 @2 8)(1 @4 8)]
+DLTP1[(2 @4 -4)]
+DLTP1[(3 @0 8)(3 @2 8)(3 @4 8)]
+DLTP1[(4 @0 8)(4 @2 8)(4 @4 8)]
+SVTCA[X]
+DLTP1[(1 @3 -8)]
+DLTP1[(2 @3 -4)]
+DLTP1[(4 @3 -8)]
+DLTP1[(5 @3 -8)]
+DLTP1[(7 @1 -8)(7 @2 -8)]
+DLTP1[(8 @1 -8)(8 @2 -8)]
+
+    </glyphProgram>
+
+    <glyphProgram name="w">
+/* TT glyph 90, char 0x77 (w) */
+/* VTT 4.2 compiler Wed Sep 21 18:04:12 2011 */
+SVTCA[Y]
+MDAP[R], 1
+MDRP[M&lt;rGr], 3
+MDRP[m&lt;rGr], 6
+MDRP[m>RBl], 10
+MDAP[R], 11
+MDRP[m>RBl], 2
+MDRP[M&lt;rGr], 9
+MDRP[m>RBl], 5
+SVTCA[X]
+MDAP[R], 3
+MDRP[M>RBl], 4
+MDRP[M>RBl], 9
+MDRP[M>RBl], 8
+MDRP[M>RBl], 7
+MDRP[m>RBl], 6
+SRP0[], 3
+MDRP[M>RBl], 11
+MDRP[M>RBl], 12
+MDRP[M>RBl], 0
+MDRP[m>RBl], 1
+IUP[X]
+IUP[Y]
+SVTCA[Y]
+DLTP1[(0 @0 8)(0 @2 8)(0 @4 8)]
+DLTP1[(1 @0 8)(1 @2 8)(1 @4 8)]
+DLTP1[(2 @2 -8)(2 @3 -8)]
+DLTP1[(3 @0 8)]
+DLTP1[(3 @2 7)]
+DLTP1[(3 @4 8)]
+DLTP1[(4 @0 8)(4 @2 8)(4 @4 8)]
+DLTP1[(5 @2 -8)(5 @3 -8)]
+DLTP1[(6 @0 8)]
+DLTP1[(6 @2 7)]
+DLTP1[(6 @4 8)]
+DLTP1[(7 @0 8)(7 @2 8)(7 @4 8)]
+SDB[], 8
+DLTP1[(10 @0 8)]
+DLTP1[(10 @1 7)]
+DLTP1[(10 @2 8)(10 @3 8)(10 @4 8)]
+SVTCA[X]
+DLTP1[(1 @4 -8)]
+DLTP1[(2 @0 -4)(2 @4 -4)]
+DLTP1[(3 @1 2)]
+DLTP1[(4 @1 -2)]
+DLTP1[(5 @0 4)(5 @4 4)]
+DLTP1[(6 @4 8)]
+DLTP1[(8 @0 2)]
+DLTP1[(13 @0 -8)(13 @1 -8)(13 @3 -8)(13 @4 -8)]
+DLTP1[(14 @2 8)]
+DLTP1[(14 @4 -8)]
+
+    </glyphProgram>
+
+    <glyphProgram name="x">
+/* TT glyph 91, char 0x78 (x) */
+/* VTT 4.2 compiler Wed Sep 21 18:09:14 2011 */
+SVTCA[Y]
+MDAP[R], 3
+MDRP[m&lt;rGr], 5
+MDAP[R], 11
+MDRP[m&lt;rGr], 9
+SVTCA[X]
+MDAP[R], 1
+MDRP[M>RBl], 2
+MDRP[m>RBl], 3
+MDRP[M&lt;RWh], 0
+MDRP[m>RBl], 11
+SRP0[], 1
+MDRP[M>RBl], 7
+MDRP[M>RBl], 8
+MDRP[m>RBl], 9
+MDRP[M&lt;RWh], 6
+MDRP[m>RBl], 5
+IUP[X]
+IUP[Y]
+SVTCA[Y]
+DLTP1[(1 @2 4)(1 @4 4)]
+DLTP1[(2 @0 8)(2 @2 8)(2 @4 8)]
+DLTP1[(3 @0 8)(3 @2 8)(3 @4 8)]
+DLTP1[(4 @0 4)]
+DLTP1[(4 @1 -4)]
+DLTP1[(4 @2 4)]
+DLTP1[(4 @4 3)]
+DLTP1[(5 @0 8)(5 @2 8)(5 @4 8)]
+DLTP1[(6 @0 8)(6 @2 8)(6 @4 8)]
+DLTP1[(7 @2 4)]
+DLTP1[(7 @4 3)]
+DLTP1[(10 @0 4)]
+DLTP1[(10 @2 2)]
+DLTP1[(10 @4 5)]
+SVTCA[X]
+DLTP1[(0 @1 1)]
+DLTP1[(0 @2 8)(0 @3 8)]
+DLTP1[(1 @2 8)(1 @3 8)]
+DLTP1[(2 @2 8)]
+DLTP1[(2 @3 5)]
+DLTP1[(4 @3 4)]
+DLTP1[(5 @3 8)]
+DLTP1[(9 @2 8)(9 @3 8)]
+DLTP1[(10 @2 8)]
+DLTP1[(10 @3 3)]
+DLTP1[(11 @2 8)]
+DLTP1[(12 @0 -8)(12 @1 -8)]
+DLTP1[(13 @1 -7)]
+DLTP1[(13 @4 8)]
+
+    </glyphProgram>
+
+    <glyphProgram name="y">
+/* TT glyph 92, char 0x79 (y) */
+/* VTT 4.2 compiler Wed Sep 21 18:17:28 2011 */
+SVTCA[Y]
+MDAP[R], 1
+MDRP[m&lt;rGr], 3
+MDAP[R], 8
+MDRP[m>RBl], 13
+SVTCA[X]
+MDAP[R], 5
+MDRP[M>RBl], 4
+MDRP[m>RBl], 3
+SRP0[], 5
+MDRP[M>RBl], 15
+MDRP[m&lt;RWh], 11
+MDRP[M>RBl], 0
+MDRP[m>RBl], 1
+IUP[X]
+IUP[Y]
+SVTCA[Y]
+DLTP1[(0 @0 8)(0 @2 8)(0 @4 8)]
+DLTP1[(1 @0 8)(1 @2 8)(1 @4 8)]
+DLTP1[(2 @1 -5)]
+DLTP1[(2 @4 4)]
+DLTP1[(3 @0 8)(3 @2 8)(3 @4 8)]
+DLTP1[(4 @0 8)(4 @2 8)(4 @4 8)]
+SVTCA[X]
+SDB[], 8
+DLTP1[(0 @0 -8)]
+DLTP1[(1 @0 -8)(1 @4 -8)]
+DLTP1[(2 @0 -4)]
+DLTP1[(3 @4 8)]
+DLTP1[(16 @2 -8)(16 @3 -8)]
+DLTP1[(17 @0 8)]
+DLTP1[(17 @3 -8)]
+
+    </glyphProgram>
+
+    <glyphProgram name="z">
+/* TT glyph 93, char 0x7a (z) */
+/* VTT 4.2 compiler Wed Sep 21 18:17:09 2011 */
+SVTCA[Y]
+MDAP[R], 4
+MDRP[M>RBl], 3
+MDRP[m&lt;RGr], 6
+MDAP[R], 9
+MDRP[M>RBl], 8
+MDRP[m&lt;RGr], 1
+SVTCA[X]
+MDAP[R], 3
+MDRP[M&lt;RWh], 1
+MDRP[m>RBl], 7
+MDAP[R], 8
+MDRP[M&lt;rGr], 6
+MDRP[m>RBl], 2
+IUP[X]
+IUP[Y]
+SVTCA[Y]
+DLTP1[(2 @0 8)(2 @2 8)]
+DLTP1[(2 @4 7)]
+DLTP1[(3 @0 8)(3 @2 8)(3 @4 8)]
+DLTP1[(4 @0 8)(4 @2 8)(4 @4 8)]
+DLTP1[(5 @0 8)(5 @2 8)(5 @4 8)]
+DLTP1[(6 @0 8)(6 @2 8)(6 @4 8)]
+SVTCA[X]
+SDB[], 8
+DLTP1[(0 @0 2)(0 @1 2)]
+DLTP1[(2 @0 2)]
+DLTP1[(2 @2 8)(2 @3 8)(2 @4 8)]
+DLTP1[(7 @1 -2)]
+DLTP1[(7 @2 -8)(7 @3 -8)(7 @4 -8)]
+DLTP1[(10 @0 -8)(10 @1 -8)]
+
+    </glyphProgram>
+
+    <extraProgram name="cvt">
+0: -379
+1: 0
+2: 1022
+3: 1366
+4: 221
+5: 157
+6: 170
+7: 192
+8: 202
+9: 211
+10: 217
+11: 225
+12: 232
+13: 246
+14: 246
+15: 246
+16: 159
+17: 229
+18: 185
+19: 194
+
+    </extraProgram>
+
+  </TSI1>
+
+</ttFont>
