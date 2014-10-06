@@ -1,0 +1,8 @@
+commit: HEAD
+process_files: [MavenPro-Regular.ttf.ttx, MavenPro-Black.ttf.ttx, MavenPro-Medium.ttf.ttx,
+  MavenPro-Bold.ttf.ttx, src/MavenPro-Regular-VTT.ttf.ttx, src/MavenPro-Regular.otf.ttx,
+  src/MavenPro-Medium-VTT.ttf.ttx, src/MavenPro-Medium.otf.ttx, src/MavenPro-Bold-VTT.ttf.ttx,
+  src/MavenPro-Black-VTT.ttf.ttx, src/MavenPro-Bold.otf.ttx, src/MavenPro-Black.otf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
